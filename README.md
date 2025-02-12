@@ -1,2 +1,2 @@
 # paroscale
-Paroscale project
+Using shell I have done the assignment.
